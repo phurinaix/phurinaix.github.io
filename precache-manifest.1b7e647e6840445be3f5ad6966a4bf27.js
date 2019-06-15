@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44553646d4c86824ab97f9ed54e91c5f",
+    "revision": "71f2efd7646e8a0ecf2cd18cc120ec9d",
     "url": "/index.html"
   },
   {
-    "revision": "dcc4a4157bdbf4743abd",
-    "url": "/static/css/main.6d060804.chunk.css"
+    "revision": "c155387394f8fd74bbb3",
+    "url": "/static/css/main.b74039f7.chunk.css"
   },
   {
-    "revision": "501562c829fdce0bb493",
-    "url": "/static/js/2.ca700d06.chunk.js"
+    "revision": "986eaea9f3add8e7d9e4",
+    "url": "/static/js/2.0a349c27.chunk.js"
   },
   {
-    "revision": "dcc4a4157bdbf4743abd",
-    "url": "/static/js/main.5c266343.chunk.js"
+    "revision": "c155387394f8fd74bbb3",
+    "url": "/static/js/main.a3001b2d.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -68,6 +68,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/2.857efd0b.jpg"
   },
   {
+    "revision": "d4c728430985a8b61397e5395ca64411",
+    "url": "/static/media/2.d4c72843.jpg"
+  },
+  {
     "revision": "81ded59f12f170eb35a53bbf80662287",
     "url": "/static/media/20.81ded59f.png"
   },
@@ -120,6 +124,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/debate.662139b4.jpg"
   },
   {
+    "revision": "e52cf33e8aefaf22003064ae38450b11",
+    "url": "/static/media/debate_full.e52cf33e.jpg"
+  },
+  {
     "revision": "aab2e98b514228ba80710a0e5f13125b",
     "url": "/static/media/design.aab2e98b.jpg"
   },
@@ -130,6 +138,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ecaa15776148a64eb467fdb396a3f231",
     "url": "/static/media/geniusPen.ecaa1577.jpg"
+  },
+  {
+    "revision": "2d43ff34c3f0302254811394bdbcfcbe",
+    "url": "/static/media/geniusPen_full.2d43ff34.jpg"
   },
   {
     "revision": "2f382d907276e1b1942f85b47485f1fe",
@@ -184,7 +196,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/tuPoster1.9b107d51.jpg"
   },
   {
+    "revision": "dbb50783088adf79ee45ee8df4a132d9",
+    "url": "/static/media/tuPoster1_full.dbb50783.jpg"
+  },
+  {
     "revision": "5013d8224967dcb9a8783c0502cdb445",
     "url": "/static/media/tuPoster2.5013d822.jpg"
+  },
+  {
+    "revision": "f4c6c12e5433ddabb4f266590d8afea4",
+    "url": "/static/media/tuPoster2_full.f4c6c12e.jpg"
   }
 ]);
