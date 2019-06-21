@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59dad65d0fa0443d79afef4ec1d8c09d",
+    "revision": "da0f51eb88abbab8279d62f9a0d9c08f",
     "url": "/index.html"
   },
   {
-    "revision": "5befa450f8e177281777",
+    "revision": "7605237f08a70e123531",
     "url": "/static/css/2.39017165.chunk.css"
   },
   {
-    "revision": "a199ae38558dd78c9259",
-    "url": "/static/css/main.0741e89a.chunk.css"
+    "revision": "d43bbe7f29872dcfe4d6",
+    "url": "/static/css/main.71121735.chunk.css"
   },
   {
-    "revision": "5befa450f8e177281777",
-    "url": "/static/js/2.285a3131.chunk.js"
+    "revision": "7605237f08a70e123531",
+    "url": "/static/js/2.14b960dd.chunk.js"
   },
   {
-    "revision": "a199ae38558dd78c9259",
-    "url": "/static/js/main.cc49c9ec.chunk.js"
+    "revision": "d43bbe7f29872dcfe4d6",
+    "url": "/static/js/main.e966487b.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/2.122b3507.jpg"
   },
   {
-    "revision": "81ded59f12f170eb35a53bbf80662287",
-    "url": "/static/media/20.81ded59f.png"
+    "revision": "847e2b1092e3676b4bc0e4ce59888b72",
+    "url": "/static/media/20.847e2b10.jpg"
   },
   {
     "revision": "71606b61788382dc3aca1a08e76a8b2e",
@@ -144,8 +144,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/36.c53f95ea.jpg"
   },
   {
+    "revision": "193f822c4a09c774ca6f8e14063596c4",
+    "url": "/static/media/37.193f822c.jpg"
+  },
+  {
+    "revision": "9160604a674b74bf7fac05bd86df364b",
+    "url": "/static/media/38.9160604a.jpg"
+  },
+  {
+    "revision": "0c6804b5b8e347d24231d5639b03c662",
+    "url": "/static/media/39.0c6804b5.jpg"
+  },
+  {
     "revision": "202e2498550ffa1bd08e11133d547f45",
     "url": "/static/media/4.202e2498.jpg"
+  },
+  {
+    "revision": "7384203b9039bb744aca5a9410122ac2",
+    "url": "/static/media/40.7384203b.jpg"
+  },
+  {
+    "revision": "7951dac2706ee20ec0dae7892f5f1cb9",
+    "url": "/static/media/41.7951dac2.jpg"
   },
   {
     "revision": "f2edd4bacbfa75cded8ff7049f2922a7",
@@ -236,6 +256,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/php.593c7979.svg"
   },
   {
+    "revision": "e3c8e6a587e026bb9ba21804b8222e00",
+    "url": "/static/media/phurinat_puekkham_resume.e3c8e6a5.pdf"
+  },
+  {
     "revision": "51bf461086a97d15ded9f73933faa5c6",
     "url": "/static/media/principle.51bf4610.jpg"
   },
@@ -250,10 +274,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "462d3d4295f5928dcf29c6620aa33103",
     "url": "/static/media/react.462d3d42.svg"
-  },
-  {
-    "revision": "ea77389b4437eb68e531daa0b17068a6",
-    "url": "/static/media/resume.ea77389b.pdf"
   },
   {
     "revision": "f0b8b7b1061f06c5f68686d25f337eb9",
